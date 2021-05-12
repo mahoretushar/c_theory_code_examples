@@ -5,7 +5,7 @@
 #   |_| |_|  |_|
 #
 
-#+TITLE: C - Programming Theory Code exampleship
+#+TITLE: Computer Programming Theory Code examples
 #+AUTHOR: Prof. T. R. Mahore
 
 * Description
