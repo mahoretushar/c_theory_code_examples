@@ -1,5 +1,4 @@
-// #TODO: 2nd Check inside Roam folder
-
+// 2nd Check inside Roam folder
 
 /* Testing file for all purpose */
 #include<stdio.h>
@@ -12,3 +11,5 @@ int main()
     printf("Full Name: %s\n",name);
     return 0;
 }
+
+
